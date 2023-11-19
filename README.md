@@ -9,9 +9,8 @@
 
 - 🌱 I’m currently learning **English, Java , Spring Boot and more.**
 
-- 👨‍💻 All of my projects are available at [https://github.com/cristianvillate?tab=repositories](https://github.com/cristianvillate?tab=repositories)
+- 👨‍💻 All of my projects are available at <a href="https://github.com/cristianvillate?tab=repositories" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-black" alt="cristian-villate" /></a>
 
-https://img.shields.io/badge/GitHub-black
 - 💬 Ask me about **Java, Git , MySql**
 
 - 📫 How to reach me **cristian_17v@hotmail.com** <a href="https://api.whatsapp.com/send?phone=61424131819" target="_blank"><img src="https://img.shields.io/badge/Whatsapp-25D366" alt=""></a>
