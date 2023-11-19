@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **English, Java , Spring Boot and more.**
 
-- 👨‍💻 All of my projects are available at <a href="https://codepen.io/cristian-villate" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="cristian-villate" height="30" width="40" />
+- 👨‍💻 All of my projects are available at <a href="https://codepen.io/cristian-villate" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-black" alt="cristian-villate" height="30" width="40" />
 
 https://img.shields.io/badge/GitHub-black
 - 💬 Ask me about **Java, Git , MySql**
