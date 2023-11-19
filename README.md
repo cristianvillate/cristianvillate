@@ -40,6 +40,9 @@
     <a href="https://github.com/cristianvillate/exchangeDivisas">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=cristianvillate&repo=exchangeDivisas" alt="GitHub Stats" />
     </a>
+     <a href="https://github.com/cristianvillate/CHATGPT-API-SPRINGBOOT">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=cristianvillate&repo=CHATGPT-API-SPRINGBOOT" alt="GitHub Stats" />
+    </a>
   </p>
 </div>
 
