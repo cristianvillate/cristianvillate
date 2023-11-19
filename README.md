@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **cristian_17v@hotmail.com**
 
-- 📄 Know about my experiences [I worked in a software development company providing support and creating modules for the company's application. the technologies I used. Low code script case Database sql oracle reports Jaspert reports and others in smaller quantities such as javascript, php and PlSql. https://hera-sqa.arqbs.com/EPAHERA](I worked in a software development company providing support and creating modules for the company's application. the technologies I used. Low code script case Database sql oracle reports Jaspert reports and others in smaller quantities such as javascript, php and PlSql. https://hera-sqa.arqbs.com/EPAHERA)
+- 📄 Know about my experiences [I worked in a software development company providing support and creating modules for the company's application. the technologies I used. Low code script case Database sql oracle reports Jaspert reports and others in smaller quantities such as javascript, php and PlSql. https://hera-sqa.arqbs.com/EPAHERA].
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
