@@ -5,13 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cristianvillate" alt="cristianvillate" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
 - 🔭 I am currently in Perth Australia learning English and practicing with personal projects [Cars Sale](https://github.com/cristianvillate/carSales)
 
 - 🌱 I’m currently learning **English, Java , Spring Boot and more.**
 
-- 👨‍💻 All of my projects are available at <a href="https://github.com/cristianvillate?tab=repositories" target="_blank"><img src="https://img.shields.io/badge/GitHub-black" alt=""></a>
+- 👨‍💻 All of my projects are available at <a href="https://codepen.io/cristian-villate" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="cristian-villate" height="30" width="40" />
 
 https://img.shields.io/badge/GitHub-black
 - 💬 Ask me about **Java, Git , MySql**
