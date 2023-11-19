@@ -16,8 +16,6 @@
 - 💬 Ask me about **Java, Git , MySql**
 
 - 📫 How to reach me **cristian_17v@hotmail.com** <a href="https://api.whatsapp.com/send?phone=61424131819" target="_blank"><img src="https://img.shields.io/badge/Whatsapp-25D366" alt=""></a>
-<a href="https://www.linkedin.com/in/cristian-villate-62366b7b target="_blank"><img src="https://img.shields.io/badge/Linkedin-0a66c2" alt=""></a>
-
 - 📄 Know about my experiences [I worked in a software development company providing support and creating modules for the company's application. the technologies I used. Low code script case Database sql oracle reports Jaspert reports and others in smaller quantities such as javascript, php and PlSql. https://hera-sqa.arqbs.com/EPAHERA].
 
 <h3 align="left">Connect with me:</h3>
