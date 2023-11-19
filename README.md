@@ -11,11 +11,12 @@
 
 - 🌱 I’m currently learning **English, Java , Spring Boot and more.**
 
-- 👨‍💻 All of my projects are available at [https://github.com/cristianvillate?tab=repositories](https://github.com/cristianvillate?tab=repositories)
+- 👨‍💻 All of my projects are available at <a href="https://api.whatsapp.com/send?phone=61424131819" target="_blank"><img src="https://img.shields.io/badge/Whatsapp-25D366" alt=""></a>
+
 
 - 💬 Ask me about **Java, Git , MySql**
 
-- 📫 How to reach me **cristian_17v@hotmail.com** <a href="https://api.whatsapp.com/send?phone=61424131819" target="_blank"><img src="https://img.shields.io/badge/Whatsapp-25D366" alt=""></a>
+- 📫 How to reach me **cristian_17v@hotmail.com** <a href="https://api.whatsapp.com/send?phone=61424131819" target="_blank"><img src="https://img.shields.io/badge/GitHub-black" alt=""></a>
 - 📄 Know about my experiences [I worked in a software development company providing support and creating modules for the company's application. the technologies I used. Low code script case Database sql oracle reports Jaspert reports and others in smaller quantities such as javascript, php and PlSql. https://hera-sqa.arqbs.com/EPAHERA].
 
 <h3 align="left">Connect with me:</h3>
